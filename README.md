@@ -1,61 +1,55 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A0F1F,25:1D4ED8,50:2563EB,75:06B6D4,100:67E8F9&text=Ignasius%20Angky%20Thungoi%20Adalla&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Fullstack%20Developer%20•%20AI%20Engineer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A0F1F,25:1D4ED8,50:2563EB,75:06B6D4,100:67E8F9&text=Ignasius%20Angky%20Thungoi%20Adalla&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Fullstack%20Developer%20•%20AI%20Engineer%20•%20Manado,%20Indonesia&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=850&lines=Building+beautiful+digital+experiences.;Fullstack+Developer+%7C+AI+Engineer.;Crafting+AI-powered+products.;Scaling+ideas+into+production.;Always+learning+something+new."/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Angky+%E2%80%94+also+known+as+BaryonDev;Fullstack+Developer+%7C+AI+Engineer;Building+AI-powered+products+from+Manado%2C+Indonesia;Turning+ideas+into+production-ready+apps;Always+learning+something+new."/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=BaryonDev&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/BaryonDev?style=for-the-badge&color=2563eb&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/BaryonDev?style=for-the-badge&color=06b6d4&label=STARS"/>
+
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9"/>
+<div align="center">
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=2563eb"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=06b6d4"/>
+### 👋 Halo! Nama saya **Ignasius Angky Thungoi Adalla** — dikenal juga sebagai **Angky Adalla** atau **BaryonDev**
+📍 Manado, Sulawesi Utara, Indonesia &nbsp;•&nbsp; 🎓 Mahasiswa Teknik Elektro, Polimdo &nbsp;•&nbsp; 🧠 Fullstack Dev & AI Engineer
 
 </div>
 
 ---
 
-<div align="center">
-
-# Welcome to my digital universe
-
-</div>
+## 🌌 About Me
 
 > **Code. Intelligence. Experience.**
 
-I'm **Ignasius Angky Thungoi Adalla**, a **Fullstack Developer** and **AI Engineer** with **5 years of experience** creating premium web applications, intelligent systems, and modern digital products.
-
-I enjoy blending engineering, design, and artificial intelligence into experiences that feel fast, beautiful, and effortless.
-
----
-
-# About Me
+Saya **Ignasius Angky Thungoi Adalla**, seorang **Fullstack Developer** dan **AI Engineer** yang senang membangun aplikasi web, sistem cerdas, dan produk digital modern. Saya suka memadukan engineering, desain, dan kecerdasan buatan menjadi pengalaman yang cepat, indah, dan terasa effortless.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Developer
-
+### 💻 Developer
 - Fullstack Architecture
 - Frontend Engineering
 - Backend Engineering
-- Cloud Solutions
 - API Design
+- Cloud Solutions
 - DevOps Workflow
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### AI Engineer
-
+### 🤖 AI Engineer
 - Computer Vision
-- NLP
+- Natural Language Processing
 - LLM Integration
-- Automation
-- AI Workflow
+- Automation & Agents
+- AI Workflow Design
 - Model Deployment
 
 </td>
@@ -64,173 +58,97 @@ I enjoy blending engineering, design, and artificial intelligence into experienc
 
 ---
 
-# Tech Universe
+## 🛠️ Tech Universe
 
 <div align="center">
 
-## Languages
-
+**Languages**
+<br>
 <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,java,html,css"/>
 
-## Frontend
-
+**Frontend**
+<br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,vite"/>
 
-## Backend
-
+**Backend**
+<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,mysql,firebase"/>
 
-## AI
-
+**AI / ML**
+<br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-## Dev Tools
-
+**Tools**
+<br>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,linux"/>
 
 </div>
 
 ---
 
-# GitHub Performance
+## 📊 GitHub Performance
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=BaryonDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaryonDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<br><br>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=BaryonDev&theme=tokyonight&hide_border=true&background=00000000"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BaryonDev&theme=tokyo-night&hide_border=true&bg_color=00000000&radius=16"/>
 
 </div>
 
 ---
 
-# Contribution Streak
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://raw.githubusercontent.com/BaryonDev/BaryonDev/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
----
-
-# Activity Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000&radius=16"/>
-
-</div>
+> Snake ini aktif otomatis lewat GitHub Actions — lihat panduan setup di bagian bawah.
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> Snake ini akan hidup kalau pakai GitHub Actions.
-
----
-
-# Live Coding Status
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4"/>
-
-</div>
-
----
-
-# Development Radar
-
-```text
-Fullstack Development    ████████████████████ 100%
-
-AI Engineering           ██████████████████░ 92%
-
-Cloud Computing          █████████████████░░ 86%
-
-System Architecture      ████████████████░░░ 80%
-
-UI/UX                    ███████████████░░░░ 75%
-```
-
----
-
-# Experience Timeline
-
-```text
-2021 ─────────────────── Started Fullstack Journey
-
-2022 ─────────────────── Built Multiple Production Apps
-
-2023 ─────────────────── Entered AI Development
-
-2024 ─────────────────── Cloud & DevOps Expansion
-
-2025 ─────────────────── Open Source Contributions
-
-2026 ─────────────────── Building Next Generation AI Products
-```
-
----
-
-# Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## Baryon Portfolio
-
-Premium developer portfolio.
-
-Stack
-
-Next.js • Three.js • GSAP
+### 🔦 [Ai-ScreenReader](https://github.com/BaryonDev/Ai-ScreenReader)
+Deskripsikan di sini apa fungsinya — misalnya alat AI untuk membaca/mendeskripsikan konten layar bagi pengguna low-vision.
+<br>`HTML`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-## Vision AI Platform
-
-Real-time AI dashboard.
-
-Stack
-
-Python • PyTorch • FastAPI
+### 📂 [Dir-Scanning-BFrc](https://github.com/BaryonDev/Dir-Scanning-BFrc)
+Deskripsikan fungsinya — misalnya tool pemindaian direktori/file dengan pendekatan brute-force.
+<br>`Python`
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## Smart Attendance
-
-Location & face verification.
-
-Stack
-
-Flutter • Firebase
+### 🧠 [Neural-Response](https://github.com/BaryonDev/Neural-Response)
+Deskripsikan fungsinya — misalnya bot/response generator berbasis neural network.
+<br>`Python`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-## Robotics Dashboard
-
-Live robotics monitoring.
-
-Stack
-
-React • Node.js
+### ⚡ [ZTEpe-Sc](https://github.com/BaryonDev/ZTEpe-Sc)
+Deskripsikan fungsinya di sini.
+<br>`JavaScript`
 
 </td>
 </tr>
@@ -238,60 +156,30 @@ React • Node.js
 
 ---
 
-# Architecture Mindset
+## 🎯 Current Focus
 
-```text
-        USER
-         │
-         ▼
-     Frontend
-         │
-         ▼
-   API Gateway
-         │
- ┌───────┼────────┐
- ▼       ▼        ▼
-AI      Auth    Database
- │        │         │
- └────────┴─────────┘
-         │
-         ▼
-      Cloud
-```
+- 🔭 Membangun produk berbasis AI
+- 🎨 Merancang antarmuka yang rapi dan modern
+- ⚙️ Sistem backend yang scalable
+- 🤝 Kolaborasi & kontribusi open-source
+- 📚 Terus belajar hal baru setiap hari
 
 ---
 
-# Current Focus
-
-- Building AI-first products
-- Designing premium interfaces
-- Scalable backend systems
-- Developer tooling
-- Automation workflows
-- Open-source experimentation
-
----
-
-# Fun Metrics
-
-| Metric | Value |
-|---------|------:|
-| Experience | 5 Years |
-| Coffee Consumed | ∞ |
-| Projects Built | 40+ |
-| AI Experiments | 100+ |
-| Bugs Defeated | 9999 |
-
----
-
-# Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/BaryonDev"><img src="https://skillicons.dev/icons?i=github"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+
+<br><br>
+
+**Ignasius Angky Thungoi Adalla** &nbsp;|&nbsp; **Angky Adalla** &nbsp;|&nbsp; **BaryonDev**
+<br>
+Fullstack Developer • AI Engineer • Manado, Indonesia
 
 </div>
 
@@ -299,8 +187,8 @@ AI      Auth    Database
 
 <div align="center">
 
-## "Building technology that feels simple, beautiful, and intelligent."
+### *"Building technology that feels simple, beautiful, and intelligent."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0A0F1F,30:1D4ED8,70:06B6D4,100:67E8F9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0A0F1F,30:1D4ED8,70:06B6D4,100:67E8F9"/>
 
 </div>
